@@ -1,0 +1,2 @@
+# HyperlynInfotech-AppliedDataScienceInternProject-SmartEmergencyHospitalAvailabilityPredictionSystem
+Smart Emergency Hospital Availability Prediction System predicts bed stay duration, ER wait time, staff availability, and emergency readiness for a single hospital. The original idea required real-time multi-hospital and GPS data, which was unavailable, so a single-hospital predictive decision-support system was implemented using machine learning.
